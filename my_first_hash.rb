@@ -41,7 +41,7 @@ def adding
 shipping_manifest = { 
   # add 4 gun powder to the shipping_manifest hash below
   shipping_manifest = {
-    "muskets" => 2,
+
     "gun powder" => 4,
   }
   puts shipping_manifest
